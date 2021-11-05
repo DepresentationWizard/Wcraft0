@@ -1,2 +1,2 @@
 # CRM System
-print('wcraft0)
+This is a CRM system to manage worker's permissions and user's data handling.
